@@ -14,12 +14,13 @@ Free for open-source projects. Anyone interacting with this software over a netw
 
 For businesses using this software in proprietary, closed-source environments who want to keep their own code private. Contact `your-email@example.com` for an enterprise contract.
 
-### Option 3: The Philanthropy & Marketing Waiver
+**10% of all commercial license sales are donated to the Python Software Foundation.**
 
-Commercial entities can bypass Option 2 by completing **both** requirements:
+### Option 3: The PSF Philanthropy Waiver
 
-1. **Donate to the PSF:** Make a verifiable corporate donation to the [Python Software Foundation](https://www.python.org/psf-landing/) based on the [calculator](calculator.html).
+Commercial entities can bypass Option 2 by making recurring donations to the [Python Software Foundation](https://www.python.org/psf-landing/).
 
-2. **Publicly Acknowledge:** Post about your usage of this project on LinkedIn/X tagging this repository, and add our logo to your website's "Powered by" section.
+- **Monthly:** Donate each month based on the [calculator](calculator.html) to remain compliant.
+- **Yearly:** Prefer annual? Donate 10× the monthly amount once per year.
 
-Email your donation receipt and social media links to `your-email@example.com` to receive your official signed waiver certificate.
+Email your donation receipt to `your-email@example.com` to receive your official signed waiver certificate.

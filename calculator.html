@@ -6,13 +6,17 @@
     <style>
         body { font-family: sans-serif; background: #f4f7f6; padding: 40px; }
         .card { background: white; max-width: 500px; margin: auto; padding: 30px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
-        select { width: 100%; padding: 10px; margin: 10px 0 20px; }
+        select, input { width: 100%; padding: 10px; margin: 10px 0 20px; box-sizing: border-box; }
+        .radio-group { display: flex; gap: 20px; margin: 10px 0 20px; }
+        .radio-group label { display: flex; align-items: center; gap: 6px; cursor: pointer; }
+        .radio-group input { width: auto; margin: 0; }
         .result { background: #eef9f5; padding: 15px; border-radius: 4px; text-align: center; font-weight: bold; }
+        .note { font-size: 0.85em; color: #666; text-align: center; margin-top: 10px; }
     </style>
 </head>
 <body>
 <div class="card">
-    <h2>🌍 PSF Waiver Calculator</h2>
+    <h2>PSF Waiver Calculator</h2>
     <label>Company Size</label>
     <select id="size" onchange="calculate()">
         <option value="1.0">1-10 (1.0x)</option>
@@ -27,13 +31,23 @@
         <option value="0.5">Tier 2: E. Europe, LatAm, MidEast, SA (0.5x)</option>
         <option value="0.3">Tier 3: India, SE Asia, Africa (0.3x)</option>
     </select>
-    <div class="result" id="total">Required PSF Donation: $250.00 USD</div>
+    <label>Frequency</label>
+    <div class="radio-group">
+        <label><input type="radio" name="freq" value="monthly" checked onchange="calculate()"> Monthly</label>
+        <label><input type="radio" name="freq" value="yearly" onchange="calculate()"> Yearly (10x)</label>
+    </div>
+    <div class="result" id="total">$250.00 /month</div>
+    <div class="note">Recurring donation required to remain compliant under Option 3.</div>
 </div>
 <script>
 function calculate() {
-    const total = (250 * parseFloat(document.getElementById('size').value) * parseFloat(document.getElementById('region').value));
-    document.getElementById('total').innerText = "Required PSF Donation: $" + total.toFixed(2) + " USD";
+    const base = 250 * parseFloat(document.getElementById('size').value) * parseFloat(document.getElementById('region').value);
+    const yearly = document.querySelector('input[name="freq"]:checked').value === 'yearly';
+    const total = yearly ? base * 10 : base;
+    const period = yearly ? '/year' : '/month';
+    document.getElementById('total').innerText = '$' + total.toFixed(2) + ' ' + period;
 }
+calculate();
 </script>
 </body>
 </html>
