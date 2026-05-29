@@ -14,8 +14,8 @@ Free for open-source projects. Anyone interacting with this software over a netw
 
 For businesses using this software in proprietary, closed-source environments who want to keep their own code private. Instead of a traditional commercial license, pay into a shared public pool based on the [calculator](calculator.html).
 
-- **70%** supports the maintainer
-- **30%** is donated to the Python Software Foundation
+- **90%** supports the maintainer
+- **10%** is donated to the Python Software Foundation
 - All contributions are published in a monthly transparency report
 - Receives a **PSF Impact Badge** (tiered by contribution level):
 

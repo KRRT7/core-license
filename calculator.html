@@ -51,7 +51,7 @@
 
     <label>Contribution Path</label>
     <div class="radio-group">
-        <label><input type="radio" name="path" value="pool" checked onchange="calculate()"> Pool (70% you / 30% PSF)</label>
+        <label><input type="radio" name="path" value="pool" checked onchange="calculate()"> Pool (90% you / 10% PSF)</label>
         <label><input type="radio" name="path" value="direct" onchange="calculate()"> Direct PSF (1.2x)</label>
     </div>
 
@@ -77,8 +77,8 @@ function calculate() {
     if (direct) {
         document.getElementById('split').innerText = '100% to PSF';
     } else {
-        const you = total * 0.7;
-        const psf = total * 0.3;
+        const you = total * 0.9;
+        const psf = total * 0.1;
         document.getElementById('split').innerText = 'You: $' + you.toFixed(2) + ' | PSF: $' + psf.toFixed(2);
     }
 
