@@ -10,17 +10,26 @@ This project is multi-licensed. Commercial entities and developers may choose **
 
 Free for open-source projects. Anyone interacting with this software over a network must open-source their entire application ecosystem under the AGPLv3.
 
-### Option 2: Paid Commercial License
+### Option 2: The Contribution Pool
 
-For businesses using this software in proprietary, closed-source environments who want to keep their own code private. Contact `your-email@example.com` for an enterprise contract.
+For businesses using this software in proprietary, closed-source environments who want to keep their own code private. Instead of a traditional commercial license, pay into a shared public pool based on the [calculator](calculator.html).
 
-**10% of all commercial license sales are donated to the Python Software Foundation.**
+- **70%** supports the maintainer
+- **30%** is donated to the Python Software Foundation
+- All contributions are published in a monthly transparency report
+- Receives a **PSF Impact Badge** (tiered by contribution level):
 
-### Option 3: The PSF Philanthropy Waiver
+| Tier | Monthly Contribution |
+|---|---|
+| Bronze | $250–$999 |
+| Silver | $1,000–$4,999 |
+| Gold | $5,000+ |
 
-Commercial entities can bypass Option 2 by making recurring donations to the [Python Software Foundation](https://www.python.org/psf-landing/).
+### Option 3: Direct PSF Waiver
 
-- **Monthly:** Donate each month based on the [calculator](calculator.html) to remain compliant.
-- **Yearly:** Prefer annual? Donate 10× the monthly amount once per year.
+Commercial entities can bypass the pool by donating **1.2× the calculated amount** directly to the [Python Software Foundation](https://www.python.org/psf-landing/). 100% goes to PSF.
 
-Email your donation receipt to `your-email@example.com` to receive your official signed waiver certificate.
+- **Monthly:** Donate each month to remain compliant
+- **Yearly:** Donate 10× the monthly amount once per year
+
+Email your donation receipt to `your-email@example.com` to receive your official signed waiver certificate and PSF Impact Badge.
