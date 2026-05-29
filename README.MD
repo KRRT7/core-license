@@ -32,6 +32,6 @@ For businesses using this software in proprietary, closed-source environments wh
 Commercial entities can bypass the pool by donating **1.2× the calculated amount** directly to the [Python Software Foundation](https://www.python.org/psf-landing/). 100% goes to PSF.
 
 - **Monthly:** Donate each month to remain compliant
-- **Yearly:** Donate 10× the monthly amount once per year
+- **Yearly:** Donate 15× the monthly amount once per year
 
 Email your donation receipt to `your-email@example.com` to receive your official signed waiver certificate and PSF Impact Badge.

@@ -46,7 +46,7 @@
     <label>Frequency</label>
     <div class="radio-group">
         <label><input type="radio" name="freq" value="monthly" checked onchange="calculate()"> Monthly</label>
-        <label><input type="radio" name="freq" value="yearly" onchange="calculate()"> Yearly (10x)</label>
+        <label><input type="radio" name="freq" value="yearly" onchange="calculate()"> Yearly (15x)</label>
     </div>
 
     <label>Contribution Path</label>
@@ -68,7 +68,7 @@ function calculate() {
     const yearly = document.querySelector('input[name="freq"]:checked').value === 'yearly';
     const direct = document.querySelector('input[name="path"]:checked').value === 'direct';
 
-    const multiplier = yearly ? 10 : 1;
+    const multiplier = yearly ? 15 : 1;
     const total = direct ? base * 1.2 * multiplier : base * multiplier;
     const period = yearly ? '/year' : '/month';
 
