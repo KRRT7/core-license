@@ -19,11 +19,13 @@ For businesses using this software in proprietary, closed-source environments wh
 - All contributions are published in a monthly transparency report
 - Receives a **PSF Impact Badge** (tiered by contribution level):
 
-| Tier | Monthly Contribution |
-|---|---|
-| Bronze | $250–$999 |
-| Silver | $1,000–$4,999 |
-| Gold | $5,000+ |
+| Tier | Tier 1 (1.0x) | Tier 2 (0.5x) | Tier 3 (0.3x) |
+|---|---|---|---|
+| Bronze | $250–$999 | $125–$499 | $75–$299 |
+| Silver | $1,000–$4,999 | $500–$2,499 | $300–$1,499 |
+| Gold | $5,000+ | $2,500+ | $1,500+ |
+
+*Thresholds scale with the region factor — a Gold badge represents the same relative contribution regardless of geography.*
 
 ### Option 3: Direct PSF Waiver
 
