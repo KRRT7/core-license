@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PSF Waiver Donation Calculator</title>
+    <style>
+        body { font-family: sans-serif; background: #f4f7f6; padding: 40px; }
+        .card { background: white; max-width: 500px; margin: auto; padding: 30px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+        select { width: 100%; padding: 10px; margin: 10px 0 20px; }
+        .result { background: #eef9f5; padding: 15px; border-radius: 4px; text-align: center; font-weight: bold; }
+    </style>
+</head>
+<body>
+<div class="card">
+    <h2>🌍 PSF Waiver Calculator</h2>
+    <label>Company Size</label>
+    <select id="size" onchange="calculate()">
+        <option value="1.0">1-10 (1.0x)</option>
+        <option value="2.5">11-50 (2.5x)</option>
+        <option value="5.0">51-200 (5.0x)</option>
+        <option value="10.0">201-500 (10.0x)</option>
+        <option value="20.0">501+ (20.0x)</option>
+    </select>
+    <label>Region Bracket</label>
+    <select id="region" onchange="calculate()">
+        <option value="1.0">Tier 1: US, EU, UK, JP, AU, SG (1.0x)</option>
+        <option value="0.5">Tier 2: E. Europe, LatAm, MidEast, SA (0.5x)</option>
+        <option value="0.3">Tier 3: India, SE Asia, Africa (0.3x)</option>
+    </select>
+    <div class="result" id="total">Required PSF Donation: $250.00 USD</div>
+</div>
+<script>
+function calculate() {
+    const total = (250 * parseFloat(document.getElementById('size').value) * parseFloat(document.getElementById('region').value));
+    document.getElementById('total').innerText = "Required PSF Donation: $" + total.toFixed(2) + " USD";
+}
+</script>
+</body>
+</html>
