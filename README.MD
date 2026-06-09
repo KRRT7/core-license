@@ -18,7 +18,7 @@ To accommodate both open-source developers and commercial enterprises, this soft
 
 ### Option 1: Open Source (AGPLv3)
 
-Free of charge for open-source projects and non-commercial use. 
+Free of charge for open-source projects and non-commercial use.
 
 This software is licensed under the **GNU Affero General Public License v3 (AGPLv3)**. Please note that if you modify this software or run it on a network where users interact with it remotely, the AGPLv3 requires you to make your modified source code available to those users under the same license. If your proprietary systems cannot comply with these copyleft requirements, you must obtain a Commercial License (Option 2 or Option 3).
 
@@ -57,7 +57,7 @@ Designed for proprietary, closed-source environments. Instead of a traditional c
 
 ### Option 3: Direct Ecosystem Donation (Commercial License)
 
-For enterprises or government entities that prefer to bypass the shared pool entirely. You may obtain a **[Project Name] Commercial License** by donating **1.2× the calculated pool base** directly to the [Python Software Foundation (PSF)](https://www.python.org/psf-landing/). 
+For enterprises or government entities that prefer to bypass the shared pool entirely. You may obtain a **[Project Name] Commercial License** by donating **1.2× the calculated pool base** directly to the [Python Software Foundation (PSF)](https://www.python.org/psf-landing/).
 
 *100% of these funds go directly to the PSF. [Project Name] maintains no control over these funds, but will issue a commercial license upon verification of your direct donation receipt.*
 
@@ -102,3 +102,44 @@ Subject: License Request - [Your Company Name]
 3. Payment Frequency: [Monthly / Yearly]
 4. Corporate Metrics: [FTE Size Tier] / [Region Tier]
 5. Company Legal Entity Name: [Full Legal Name for the License Agreement]
+```
+
+***
+
+### 🔒 Corporate Assurances & Privacy
+
+* **Zero Telemetry:** The software contains no remote telemetry, metric tracking, or licensing phone-home code.
+* **No Code Sharing:** Purchasing a Commercial License (Option 2 or 3) grants your organization a complete copyleft exemption. You are never required to share, link, or expose any proprietary backend systems or corporate architecture.
+
+***
+
+### ⚖️ Audit & Good Faith Terms
+
+* **Good Faith:** Commercial licenses are issued based on self-reported corporate metrics. We reserve the right to request reasonable verification of corporate size during annual renewal cycles to maintain license validity.
+* **FTE Definition:** "Company Size" is calculated as the total number of full-time equivalent employees and dedicated contractors globally across your entire corporate hierarchy (including parents and subsidiaries).
+
+***
+
+### 🌎 Region Guidelines Reference
+
+Regional tiers are based on the primary headquarters of the legal entity purchasing the license:
+
+* **Tier 1 (1.0x):** US, EU, UK, JP, AU, SG
+* **Tier 2 (0.5x):** Eastern Europe, Latin America, Middle East, South Africa
+* **Tier 3 (0.3x):** India, Southeast Asia, Africa
+
+***
+
+### ❓ Frequently Asked Questions
+
+#### Why is there an AGPLv3 copyleft concern?
+
+The AGPLv3 contains provisions designed to prevent closed-source projects from utilizing open-source software via network interfaces (like APIs or remote calls) without contributing back. Because many corporate compliance policies restrict the use of AGPLv3 dependencies to avoid the risk of proprietary code exposure, we offer Options 2 and 3 to grant standard commercial rights.
+
+#### What happens if our company size or region changes mid-year?
+
+License compliance is evaluated at the time of your renewal. If your corporate metrics scale up or down, simply adjust your contribution level on your next regular billing cycle.
+
+#### Are these contributions tax-deductible?
+
+Direct donations to the PSF (Option 3) go directly to a registered 501(c)(3) non-profit organization and may qualify for deductions depending on your tax jurisdiction. Contribution Pool allocations (Option 2) split funding between software development services and non-profit donations; please consult your tax professional.
