@@ -82,7 +82,7 @@ Commercial entities can bypass the pool entirely by donating **1.2× the calcula
 ### 📋 How to Complete Your Commercial Compliance
 
 1. **Calculate:** Locate your company size and regional tier inside the payment tables above.
-2. **Contribute:** Pay your required bracket amount through the [Contribution Pool Link] (Option 2) or send it directly to the [PSF Landing Page](https://python.org) (Option 3).
+2. **Contribute:** Pay your required bracket amount through the [Contribution Pool](#) (Option 2) or send it directly to the [PSF Landing Page](https://python.org) (Option 3).
 3. **Verify:** Email a copy or screenshot of your monthly/yearly transaction receipt to `turcioskevinr@gmail.com`.
    * *Subject format:* `License Verification - [Your Company Name]`
 4. **Receive Certificate:** Within 2 business days, you will receive a signed commercial software waiver certificate and a custom vector **PSF Impact Badge** graphic to display on your team profiles or landing page.
