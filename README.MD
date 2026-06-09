@@ -29,27 +29,27 @@ For businesses using this software in proprietary, closed-source environments wh
 * **90%** supports the core project maintainer.
 * **10%** is donated to the Python Software Foundation (PSF).
 * All contributions are published in a monthly transparency report.
-* Contributors receive a **PSF Impact Badge** (tiered by normalized contribution level).
+* Contributors receive a **PSF Impact Badge** (tiered by contribution level).
 
 #### 🌊 Pool Path — Monthly (90% Pool / 10% PSF)
 
 | Company Size | Tier 1 (1.0x) | Tier 2 (0.5x) | Tier 3 (0.3x) |
 | :--- | :--- | :--- | :--- |
-| **1-10 (1x)** | **$250.00 / mo** (🥉 Bronze) `Split: $225.00 / $25.00` | **$125.00 / mo** (🥉 Bronze) `Split: $112.50 / $12.50` | **$75.00 / mo** (🥉 Bronze) `Split: $67.50 / $7.50` |
+| **1-10 (1x)** | **$250.00 / mo** (🥉 Bronze) `Split: $225 / $25` | **$125.00 / mo** (🥉 Bronze) `Split: $112.50 / $12.50` | **$75.00 / mo** (🥉 Bronze) `Split: $67.50 / $7.50` |
 | **11-50 (2.5x)** | **$625.00 / mo** (🥉 Bronze) `Split: $562.50 / $62.50` | **$312.50 / mo** (🥉 Bronze) `Split: $281.25 / $31.25` | **$187.50 / mo** (🥉 Bronze) `Split: $168.75 / $18.75` |
-| **51-200 (5x)** | **$1,250.00 / mo** (🥈 Silver) `Split: $1,125.00 / $125.00` | **$625.00 / mo** (🥈 Silver) `Split: $562.50 / $62.50` | **$375.00 / mo** (🥈 Silver) `Split: $337.50 / $37.50` |
-| **201-500 (10x)** | **$2,500.00 / mo** (🥈 Silver) `Split: $2,250.00 / $250.00` | **$1,250.00 / mo** (🥈 Silver) `Split: $1,125.00 / $125.00` | **$750.00 / mo** (🥈 Silver) `Split: $675.00 / $75.00` |
-| **501+ (20x)** | **$5,000.00 / mo** (🥇 Gold) `Split: $4,500.00 / $500.00` | **$2,500.00 / mo** (🥇 Gold) `Split: $2,250.00 / $250.00` | **$1,500.00 / mo** (🥇 Gold) `Split: $1,350.00 / $150.00` |
+| **51-200 (5x)** | **$1,250.00 / mo** (🥈 Silver) `Split: $1,125 / $125` | **$625.00 / mo** (🥉 Bronze) `Split: $562.50 / $62.50` | **$375.00 / mo** (🥉 Bronze) `Split: $337.50 / $37.50` |
+| **201-500 (10x)** | **$2,500.00 / mo** (🥈 Silver) `Split: $2,250 / $250` | **$1,250.00 / mo** (🥈 Silver) `Split: $1,125 / $125` | **$750.00 / mo** (🥉 Bronze) `Split: $675 / $75` |
+| **501+ (20x)** | **$5,000.00 / mo** (🥇 Gold) `Split: $4,500 / $500` | **$2,500.00 / mo** (🥈 Silver) `Split: $2,250 / $250` | **$1,500.00 / mo** (🥈 Silver) `Split: $1,350 / $150` |
 
 #### 🍂 Pool Path — Yearly (15x Multiplier \| 90% Pool / 10% PSF)
 
 | Company Size | Tier 1 (1.0x) | Tier 2 (0.5x) | Tier 3 (0.3x) |
 | :--- | :--- | :--- | :--- |
-| **1-10 (1x)** | **$3,750.00 / yr** (🥉 Bronze) `Split: $3,375.00 / $375.00` | **$1,875.00 / yr** (🥉 Bronze) `Split: $1,687.50 / $187.50` | **$1,125.00 / yr** (🥉 Bronze) `Split: $1,012.50 / $112.50` |
+| **1-10 (1x)** | **$3,750.00 / yr** (🥉 Bronze) `Split: $3,375 / $375` | **$1,875.00 / yr** (🥉 Bronze) `Split: $1,687.50 / $187.50` | **$1,125.00 / yr** (🥉 Bronze) `Split: $1,012.50 / $112.50` |
 | **11-50 (2.5x)** | **$9,375.00 / yr** (🥉 Bronze) `Split: $8,437.50 / $937.50` | **$4,687.50 / yr** (🥉 Bronze) `Split: $4,218.75 / $468.75` | **$2,812.50 / yr** (🥉 Bronze) `Split: $2,531.25 / $281.25` |
-| **51-200 (5x)** | **$18,750.00 / yr** (🥈 Silver) `Split: $16,875.00 / $1,875.00` | **$9,375.00 / yr** (🥈 Silver) `Split: $8,437.50 / $937.50` | **$5,625.00 / yr** (🥈 Silver) `Split: $5,062.50 / $562.50` |
-| **201-500 (10x)** | **$37,500.00 / yr** (🥈 Silver) `Split: $33,750.00 / $3,750.00` | **$18,750.00 / yr** (🥈 Silver) `Split: $16,875.00 / $1,875.00` | **$11,250.00 / yr** (🥈 Silver) `Split: $10,125.00 / $1,125.00` |
-| **501+ (20x)** | **$75,000.00 / yr** (🥇 Gold) `Split: $67,500.00 / $7,500.00` | **$37,500.00 / yr** (🥇 Gold) `Split: $33,750.00 / $3,750.00` | **$22,500.00 / yr** (🥇 Gold) `Split: $20,250.00 / $2,250.00` |
+| **51-200 (5x)** | **$18,750.00 / yr** (🥈 Silver) `Split: $16.8k / $1,875` | **$9,375.00 / yr** (🥉 Bronze) `Split: $8,437.50 / $937.50` | **$5,625.00 / yr** (🥉 Bronze) `Split: $5,062.50 / $562.50` |
+| **201-500 (10x)** | **$37,500.00 / yr** (🥈 Silver) `Split: $33.7k / $3,750` | **$18,750.00 / yr** (🥈 Silver) `Split: $16.8k / $1,875` | **$11,250.00 / yr** (🥉 Bronze) `Split: $10,125 / $1,125` |
+| **501+ (20x)** | **$75,000.00 / yr** (🥇 Gold) `Split: $67.5k / $7,500` | **$37,500.00 / yr** (🥈 Silver) `Split: $33.7k / $3,750` | **$22,500.00 / yr** (🥈 Silver) `Split: $20.2k / $2,250` |
 
 ***
 
@@ -63,19 +63,19 @@ Commercial entities can bypass the pool entirely by donating **1.2× the calcula
 | :--- | :--- | :--- | :--- |
 | **1-10 (1x)** | **$300.00 / mo** (🥉 Bronze) / *100% PSF* | **$150.00 / mo** (🥉 Bronze) / *100% PSF* | **$90.00 / mo** (🥉 Bronze) / *100% PSF* |
 | **11-50 (2.5x)** | **$750.00 / mo** (🥉 Bronze) / *100% PSF* | **$375.00 / mo** (🥉 Bronze) / *100% PSF* | **$225.00 / mo** (🥉 Bronze) / *100% PSF* |
-| **51-200 (5x)** | **$1,500.00 / mo** (🥈 Silver) / *100% PSF* | **$750.00 / mo** (🥈 Silver) / *100% PSF* | **$450.00 / mo** (🥈 Silver) / *100% PSF* |
-| **201-500 (10x)** | **$3,000.00 / mo** (🥈 Silver) / *100% PSF* | **$1,500.00 / mo** (🥈 Silver) / *100% PSF* | **$900.00 / mo** (🥈 Silver) / *100% PSF* |
-| **501+ (20x)** | **$6,000.00 / mo** (🥇 Gold) / *100% PSF* | **$3,000.00 / mo** (🥇 Gold) / *100% PSF* | **$1,800.00 / mo** (🥇 Gold) / *100% PSF* |
+| **51-200 (5x)** | **$1,500.00 / mo** (🥈 Silver) / *100% PSF* | **$750.00 / mo** (🥉 Bronze) / *100% PSF* | **$450.00 / mo** (🥉 Bronze) / *100% PSF* |
+| **201-500 (10x)** | **$3,000.00 / mo** (🥈 Silver) / *100% PSF* | **$1,500.00 / mo** (🥈 Silver) / *100% PSF* | **$900.00 / mo** (🥉 Bronze) / *100% PSF* |
+| **501+ (20x)** | **$6,000.00 / mo** (🥇 Gold) / *100% PSF* | **$3,000.00 / mo** (🥈 Silver) / *100% PSF* | **$1,800.00 / mo** (🥈 Silver) / *100% PSF* |
 
 #### 🦅 Direct PSF Path — Yearly (15x & 1.2x Multipliers \| 100% to PSF)
 
 | Company Size | Tier 1 (1.0x) | Tier 2 (0.5x) | Tier 3 (0.3x) |
 | :--- | :--- | :--- | :--- |
 | **1-10 (1x)** | **$4,500.00 / yr** (🥉 Bronze) / *100% PSF* | **$2,250.00 / yr** (🥉 Bronze) / *100% PSF* | **$1,350.00 / yr** (🥉 Bronze) / *100% PSF* |
-| **11-50 (2.5x)** | **$11,250.00 / yr** (🥈 Silver) / *100% PSF* | **$5,625.00 / yr** (🥈 Silver) / *100% PSF* | **$3,375.00 / yr** (🥈 Silver) / *100% PSF* |
-| **51-200 (5x)** | **$22,500.00 / yr** (🥈 Silver) / *100% PSF* | **$11,250.00 / yr** (🥈 Silver) / *100% PSF* | **$6,750.00 / yr** (🥈 Silver) / *100% PSF* |
+| **11-50 (2.5x)** | **$11,250.00 / yr** (🥈 Silver) / *100% PSF* | **$5,625.00 / yr** (🥉 Bronze) / *100% PSF* | **$3,375.00 / yr** (🥉 Bronze) / *100% PSF* |
+| **51-200 (5x)** | **$22,500.00 / yr** (🥈 Silver) / *100% PSF* | **$11,250.00 / yr** (🥈 Silver) / *100% PSF* | **$6,750.00 / yr** (🥉 Bronze) / *100% PSF* |
 | **201-500 (10x)** | **$45,000.00 / yr** (🥈 Silver) / *100% PSF* | **$22,500.00 / yr** (🥈 Silver) / *100% PSF* | **$13,500.00 / yr** (🥈 Silver) / *100% PSF* |
-| **501+ (20x)** | **$90,000.00 / yr** (🥇 Gold) / *100% PSF* | **$45,000.00 / yr** (🥇 Gold) / *100% PSF* | **$27,000.00 / yr** (🥇 Gold) / *100% PSF* |
+| **501+ (20x)** | **$90,000.00 / yr** (🥇 Gold) / *100% PSF* | **$45,000.00 / yr** (🥇 Gold) / *100% PSF* | **$27,000.00 / yr** (🥈 Silver) / *100% PSF* |
 
 ***
 
@@ -95,7 +95,7 @@ Commercial entities can bypass the pool entirely by donating **1.2× the calcula
 * **Tier 2 (0.5x Factor):** E. Europe, LatAm, MidEast, SA
 * **Tier 3 (0.3x Factor):** India, SE Asia, Africa
 
-*Normalized badge levels scale with the region factor — an identical company profile achieves the same baseline badge tier relative to local purchasing power.*
+*Badge levels represent absolute funding impact categories (Bronze: under $1,000/mo normalized, Silver: $1,000-$4,999/mo normalized, Gold: $5,000+/mo normalized).*
 
 ***
 
