@@ -12,7 +12,7 @@ Free for open-source projects. Anyone interacting with this software over a netw
 
 ### Option 2: The Contribution Pool
 
-For businesses using this software in proprietary, closed-source environments who want to keep their own code private. Instead of a traditional commercial license, pay into a shared public pool based on the [calculator](calculator.html).
+For businesses using this software in proprietary, closed-source environments who want to keep their own code private. Instead of a traditional commercial license, pay into a shared public pool.
 
 - **90%** supports the maintainer
 - **10%** is donated to the Python Software Foundation
