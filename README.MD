@@ -1,26 +1,47 @@
-# [Project Name]
+# Core License
 
-[Short description of your project and it's goals.]
+Core License is an adoption package for projects that want an AGPLv3 open-source default with separately signed proprietary-use paths.
 
-## ⚖️ Licensing & Triple-License Options
+It follows the same broad structure used by projects such as Nuitka: keep the public project under AGPLv3, keep special permissions in separate license files, and make commercial/proprietary use depend on separate terms instead of editing the AGPL text.
 
-This project is multi-licensed. Commercial entities and developers may choose **one** of the following options to comply with the license:
+This is a legal template, not legal advice. Before using it for a production project, replace the bracketed fields, confirm that the project has the right to offer proprietary-use grants for all covered code, and have counsel review the final text.
 
-### Option 1: Open Source (AGPLv3)
+## Default License
 
-Free for open-source projects. Anyone interacting with this software over a network must open-source their entire application ecosystem under the AGPLv3.
+Unless a separate signed evaluation license, commercial license, or philanthropy waiver applies, the software is licensed under the GNU Affero General Public License version 3 only.
 
-### Option 2: Paid Commercial License
+Use this SPDX identifier in source files and package metadata:
 
-For businesses using this software in proprietary, closed-source environments who want to keep their own code private. Contact `your-email@example.com` for an enterprise contract.
+```text
+SPDX-License-Identifier: AGPL-3.0-only
+```
 
-**10% of all commercial license sales are donated to the Python Software Foundation.**
+The full AGPLv3 text is in [LICENSE.txt](LICENSE.txt).
 
-### Option 3: The PSF Philanthropy Waiver
+## Proprietary-Use Paths
 
-Commercial entities can bypass Option 2 by making recurring donations to the [Python Software Foundation](https://www.python.org/psf-landing/).
+### Evaluation License
 
-- **Monthly:** Donate each month based on the [calculator](calculator.html) to remain compliant.
-- **Yearly:** Prefer annual? Donate 10× the monthly amount once per year.
+Organizations that want to test the software before committing to a commercial license or philanthropy waiver can request a signed, time-limited evaluation license.
 
-Email your donation receipt to `your-email@example.com` to receive your official signed waiver certificate.
+The public terms are in [LICENSE-EVALUATION.txt](LICENSE-EVALUATION.txt). Project-specific fields belong in [EVALUATION-ORDER-FORM.template.md](EVALUATION-ORDER-FORM.template.md).
+
+### Commercial License
+
+Organizations that want to use the software in proprietary products, private services, or closed-source deployments can request a signed commercial license.
+
+The public terms are in [LICENSE-COMMERCIAL.txt](LICENSE-COMMERCIAL.txt). Project-specific fields belong in [COMMERCIAL-ORDER-FORM.template.md](COMMERCIAL-ORDER-FORM.template.md).
+
+### Philanthropy Waiver
+
+Organizations can request a signed waiver after making a qualifying donation directly to the [Python Software Foundation](https://www.python.org/psf/donations/).
+
+The waiver is granted only by the project licensor, not by the Python Software Foundation, and is not effective until a waiver certificate is signed.
+
+The public terms are in [LICENSE-PHILANTHROPY-WAIVER.txt](LICENSE-PHILANTHROPY-WAIVER.txt). The certificate form is in [PHILANTHROPY-WAIVER-CERTIFICATE.template.md](PHILANTHROPY-WAIVER-CERTIFICATE.template.md).
+
+## Adopting This Package
+
+Start with [ADOPTING.md](ADOPTING.md). A project should also use [CONTRIBUTING.md](CONTRIBUTING.md) or equivalent contributor terms if it wants to accept outside contributions while preserving the ability to grant commercial licenses and philanthropy waivers.
+
+Contact: turcioskevinr@gmail.com
