@@ -5,6 +5,7 @@ This order form incorporates `LICENSE-COMMERCIAL.txt`.
 ## Project
 
 - Software: `[project name]`
+- Core License version: `0.1.0`
 - Repository: `[repository URL]`
 - Licensor: `[legal name]`
 - Licensor contact: `turcioskevinr@gmail.com`

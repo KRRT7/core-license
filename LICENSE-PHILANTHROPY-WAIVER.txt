@@ -1,5 +1,5 @@
 Core Philanthropy Waiver Terms
-Version 1.0
+Version 0.1.0
 
 These terms describe an optional proprietary-use waiver tied to qualifying donations to the Python Software Foundation. The waiver is not automatic. It becomes effective only when Licensor signs a waiver certificate for a specific recipient.
 

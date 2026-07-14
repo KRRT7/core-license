@@ -18,6 +18,7 @@ Before publishing, decide and document:
 A project adopting this package should include:
 
 - `LICENSE.txt`: verbatim AGPLv3 text.
+- `VERSION`: the Core License package version.
 - `README.md`: a short licensing section that points to the files below.
 - `LICENSE-EVALUATION.txt`: public evaluation license terms.
 - `EVALUATION-ORDER-FORM.template.md`: signed evaluation form.
@@ -57,7 +58,8 @@ Before a release:
 2. Confirm generated files, vendored dependencies, examples, assets, and docs have compatible licensing.
 3. Confirm evaluation and proprietary-use grants are issued only through signed order forms or waiver certificates.
 4. Keep signed documents and donation receipts in a private records system.
-5. Publish no public donation amounts or commercial terms unless the project intentionally chooses to do so later.
+5. Update `VERSION` when changing the Core License package terms.
+6. Publish no public donation amounts or commercial terms unless the project intentionally chooses to do so later.
 
 ## README Snippet
 

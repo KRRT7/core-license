@@ -1,5 +1,5 @@
 Core Commercial License Terms
-Version 1.0
+Version 0.1.0
 
 These terms are public standard terms. They become effective for a licensee only when incorporated by a signed order form or another written agreement with the Licensor.
 

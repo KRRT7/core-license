@@ -1,5 +1,7 @@
 # Core License
 
+Current version: 0.1.0
+
 Core License is an adoption package for projects that want an AGPLv3 open-source default with separately signed proprietary-use paths.
 
 It follows the same broad structure used by projects such as Nuitka: keep the public project under AGPLv3, keep special permissions in separate license files, and make commercial/proprietary use depend on separate terms instead of editing the AGPL text.

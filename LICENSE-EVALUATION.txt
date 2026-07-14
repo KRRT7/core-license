@@ -1,5 +1,5 @@
 Core Evaluation License Terms
-Version 1.0
+Version 0.1.0
 
 These terms allow a recipient to evaluate the Software for a limited time before deciding whether to use AGPLv3, request a commercial license, or request a philanthropy waiver. These terms become effective only when incorporated by a signed evaluation order form or another written agreement with the Licensor.
 
